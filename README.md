@@ -4,3 +4,4 @@
 2.  This report is available in English only from any of teh Sponsoring Agencies or online at:
 www.gesamp.org/publications (follow the link for GESAMP Reports and Studies 61-70)
       
+3.    GESAMP wishes to draw attendtion to the fact that the hazard evaluation rationale was conceived for the particular purpose of the development and implementation of the International Convention for the Prevention of Pollution from Ships, MARPOL. The guidance on hazard evaluation contained in teh publication is therefore intended primarily to be used for that purpose. Although it should not normally be used out of context, this guidance (or elements therof) may be found to be useful for other hazard evaluation purposes provided the limitations and restrictions imposed upon such guidance by the hazard assessment rationale, as well as any associated risks, are fully appreciated. 
